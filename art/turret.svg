@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="turret.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4326">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4328" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4330" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4208"
+       x="-0.03520035"
+       width="1.0704007"
+       y="-0.036836826"
+       height="1.0736737">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.1014665"
+         id="feGaussianBlur4210" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4310"
+       x="-0.054858234"
+       width="1.1097165"
+       y="-0.11403337"
+       height="1.2280667">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.37729367"
+         id="feGaussianBlur4312" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4326"
+       id="linearGradient4332"
+       x1="354.33694"
+       y1="380.32467"
+       x2="363.79136"
+       y2="380.32467"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.94744939,-0.3199057,0.3199057,0.94744939,-83.991561,109.37312)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4326"
+       id="linearGradient4336"
+       gradientUnits="userSpaceOnUse"
+       x1="354.33694"
+       y1="380.32467"
+       x2="363.79136"
+       y2="380.32467"
+       gradientTransform="matrix(0.94744939,-0.3199057,0.3199057,0.94744939,-184.51044,108.63368)" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4368"
+       x="-0.11724298"
+       width="1.234486"
+       y="-0.065444048"
+       height="1.1308881">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.0742747"
+         id="feGaussianBlur4370" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4446"
+       x="-0.050517216"
+       width="1.1010344"
+       y="-0.0738656"
+       height="1.1477312">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.44510488"
+         id="feGaussianBlur4448" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4901"
+       x="-0.026468294"
+       width="1.0529366"
+       y="-0.0077588178"
+       height="1.0155176">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.23148177"
+         id="feGaussianBlur4903" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4905"
+       x="-0.021711323"
+       width="1.0434226"
+       y="-0.0082913411"
+       height="1.0165827">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.22673913"
+         id="feGaussianBlur4907" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4326"
+       id="linearGradient4229"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.94744939,-0.3199057,0.3199057,0.94744939,120.29415,112.23026)"
+       x1="354.33694"
+       y1="380.32467"
+       x2="363.79136"
+       y2="380.32467" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4326"
+       id="linearGradient4231"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.94744939,-0.3199057,0.3199057,0.94744939,19.775274,111.49082)"
+       x1="354.33694"
+       y1="380.32467"
+       x2="363.79136"
+       y2="380.32467" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4285"
+       x="-0.039360001"
+       width="1.07872"
+       y="-0.017263158"
+       height="1.0345263">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.2928571"
+         id="feGaussianBlur4287" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4293"
+       x="-0.033523451"
+       width="1.0670469"
+       y="-0.018690377"
+       height="1.0373808">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.29952645"
+         id="feGaussianBlur4295" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="258.86367"
+     inkscape:cy="352.87935"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 287.82091,340.36947 c -6.93293,8.45869 -2.39545,40.30124 -2.39545,40.30124 l 19.41004,25.11017 32.53655,2.58432 28.14583,-25.01203 4.64143,-20.9511 c 0,0 6.18257,-17.40208 -3.88105,-21.47621 -7.01516,-2.83999 -67.79237,-4.42797 -78.45735,-0.55639 z"
+       id="path3340"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccsc"
+       inkscape:export-xdpi="31.598276"
+       inkscape:export-ydpi="31.598276"
+       inkscape:export-filename="/home/grabli66/Workspace/godot-projects/ufofly/turret_2.png" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 287.62743,340.33463 c 0,0 -22.23782,0.5616 -22.21959,9.71084 0.0169,8.45363 20.96779,30.92775 20.96779,30.92775 z"
+       id="path3388"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscc"
+       inkscape:export-xdpi="31.598276"
+       inkscape:export-ydpi="31.598276"
+       inkscape:export-filename="/home/grabli66/Workspace/godot-projects/ufofly/turret_2.png" />
+    <path
+       sodipodi:nodetypes="cscc"
+       inkscape:connector-curvature="0"
+       id="path3390"
+       d="m 367.50682,341.15066 c 0,0 22.15513,1.9965 21.54611,11.12545 -0.56273,8.43491 -22.92126,29.50915 -22.92126,29.50915 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-xdpi="31.598276"
+       inkscape:export-ydpi="31.598276"
+       inkscape:export-filename="/home/grabli66/Workspace/godot-projects/ufofly/turret_2.png" />
+    <path
+       style="fill:#333333;fill-opacity:0.59322037;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter4208)"
+       d="m 285.71429,344.50507 c -10.52095,-2.78347 -17.8047,20.39113 -15.7143,31.07142 1.45296,7.42347 4.14936,19.2899 10,30.71429 0,0 19.28367,10.92229 21.07143,9.64286 15.49947,-11.09235 18.70334,-8.90607 26.42858,-14.28571 6.55715,-4.56619 15.38434,-12.43528 16.42856,-20.35715 0.83636,-6.34496 2.3522,-15.07747 -3.57143,-17.49999 -14.77254,-6.04139 -38.90749,-15.12272 -54.64284,-19.28572 z"
+       id="path3344"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sscsssss"
+       inkscape:export-xdpi="31.598276"
+       inkscape:export-ydpi="31.598276"
+       transform="matrix(0.94744939,-0.3199057,0.3199057,0.94744939,-83.991561,109.37312)"
+       inkscape:export-filename="/home/grabli66/Workspace/godot-projects/ufofly/turret_2.png" />
+    <path
+       sodipodi:nodetypes="sssss"
+       inkscape:connector-curvature="0"
+       id="path4316"
+       d="m 377.53346,351.44388 c -1.77708,0.22282 -4.03593,1.85245 -3.95079,3.64142 0.0855,1.79635 2.50569,3.42886 4.29642,3.26318 2.02058,-0.18695 4.43221,-2.50883 4.09002,-4.50898 -0.28338,-1.65634 -2.7683,-2.60468 -4.43565,-2.39562 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient4332);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-xdpi="31.598276"
+       inkscape:export-ydpi="31.598276"
+       inkscape:export-filename="/home/grabli66/Workspace/godot-projects/ufofly/turret_2.png" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient4336);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 277.01458,350.70444 c -1.77708,0.22283 -4.03593,1.85246 -3.95079,3.64142 0.0855,1.79635 2.50569,3.42887 4.29642,3.26318 2.02058,-0.18694 4.43221,-2.50883 4.09002,-4.50898 -0.28338,-1.65633 -2.7683,-2.60468 -4.43565,-2.39562 z"
+       id="path4334"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss"
+       inkscape:export-xdpi="31.598276"
+       inkscape:export-ydpi="31.598276"
+       inkscape:export-filename="/home/grabli66/Workspace/godot-projects/ufofly/turret_2.png" />
+    <path
+       style="fill:#ffffff;fill-opacity:0.37853106;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter4368)"
+       d="m 263.01847,373.9185 -0.12627,-3.15673 -6.1909,-24.79578 0.70268,-4.71791 3.58784,-2.86086 6.20885,0.0523 7.68709,-2.02293 c 0,0 -6.76073,-1.92793 -10.22779,-1.89404 -3.13659,0.0307 -6.66257,0.0745 -9.21764,1.89404 -1.27593,0.90863 -2.08617,2.5058 -2.39912,4.04061 -0.56846,2.78797 0.6724,5.65278 1.13642,8.46002 1.4412,8.71909 8.83884,25.00128 8.83884,25.00128 z"
+       id="path4338"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccssssc"
+       inkscape:export-xdpi="31.598276"
+       inkscape:export-ydpi="31.598276"
+       transform="matrix(0.94744939,-0.3199057,0.3199057,0.94744939,-83.991561,109.37312)"
+       inkscape:export-filename="/home/grabli66/Workspace/godot-projects/ufofly/turret_2.png" />
+    <path
+       sodipodi:nodetypes="cccccccssssc"
+       inkscape:connector-curvature="0"
+       id="path4372"
+       d="m 362.66133,407.48993 -0.12627,-3.15673 -6.1909,-24.79578 0.70268,-4.71791 3.58784,-2.86086 6.20885,0.0523 7.68709,-2.02293 c 0,0 -6.76073,-1.92793 -10.22779,-1.89404 -3.13659,0.0307 -6.66257,0.0745 -9.21764,1.89404 -1.27593,0.90863 -2.08617,2.5058 -2.39912,4.04061 -0.56846,2.78797 0.6724,5.65278 1.13642,8.46002 1.4412,8.71909 8.83884,25.00128 8.83884,25.00128 z"
+       style="fill:#ffffff;fill-opacity:0.37853106;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter4368)"
+       transform="matrix(-0.9034364,-0.42872216,-0.42872216,0.9034364,869.13177,168.02256)"
+       inkscape:export-xdpi="31.598276"
+       inkscape:export-ydpi="31.598276"
+       inkscape:export-filename="/home/grabli66/Workspace/godot-projects/ufofly/turret_2.png" />
+    <g
+       id="g4179"
+       transform="translate(179.30208,-5.555839)"
+       inkscape:export-filename="/home/grabli66/Workspace/godot-projects/ufofly/turret_1.png"
+       inkscape:export-xdpi="31.598276"
+       inkscape:export-ydpi="31.598276">
+      <ellipse
+         ry="35.230354"
+         rx="34.47274"
+         inkscape:export-ydpi="31.598276"
+         inkscape:export-xdpi="31.598276"
+         inkscape:export-filename="/home/grabli66/Workspace/godot-projects/ufofly/turret_1.png"
+         cx="148.14215"
+         cy="374.14252"
+         id="path4909"
+         style="opacity:1;fill:#b56b0b;fill-opacity:1;stroke:#000000;stroke-width:1.05451822;stroke-opacity:1" />
+      <g
+         inkscape:export-ydpi="31.598276"
+         inkscape:export-xdpi="31.598276"
+         inkscape:export-filename="/home/grabli66/Workspace/godot-projects/ufofly/turret_1.png"
+         id="g4715">
+        <path
+           style="fill:#803300;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 133.64206,337.95843 c -0.86681,5.78723 1.15022,36.43658 1.15022,36.43658 0,0 -6.84726,38.69269 -5.12258,55.0591 4.0373,38.31226 0.0398,49.77913 0.0398,49.77913 l 31.1972,0.41868 c 0,0 -2.69087,-14.06967 4.2748,-49.0991 2.59488,-13.04934 -2.39306,-54.15483 -2.39306,-54.15483 0,0 5.5739,-32.83086 4.94972,-39.73573 -1.02415,-11.32737 -32.41136,-9.95194 -34.09611,1.29617 z"
+           id="path3342"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="scsccscss"
+           inkscape:export-xdpi="31.598276"
+           inkscape:export-ydpi="31.598276"
+           inkscape:export-filename="/home/grabli66/Workspace/godot-projects/ufofly/turret.png" />
+        <path
+           style="fill:#2b1100;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 129.37479,478.4605 -2.68499,8.06009 36.89023,-0.1207 -2.7095,-7.89446 z"
+           id="path3352"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:export-xdpi="31.598276"
+           inkscape:export-ydpi="31.598276"
+           inkscape:export-filename="/home/grabli66/Workspace/godot-projects/ufofly/turret.png" />
+        <path
+           style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 133.54496,336.38764 34.00346,-0.45529 c 0,0 -2.61285,-8.91629 -18.17521,-8.61973 -13.35793,0.0217 -15.82825,9.07502 -15.82825,9.07502 z"
+           id="path3356"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc"
+           inkscape:export-xdpi="31.598276"
+           inkscape:export-ydpi="31.598276"
+           inkscape:export-filename="/home/grabli66/Workspace/godot-projects/ufofly/turret.png" />
+        <path
+           style="fill:#bd5e00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 126.34422,342.92353 c -9.11035,1.04817 4.96257,18.8009 5.83379,27.92988 1.09302,11.45281 -5.21032,32.81835 -2.83295,37.00938 4.28876,0.083 31.92936,-0.0445 36.41642,-0.3208 2.16197,-4.48568 -3.64272,-27.7325 -0.99734,-36.13105 2.09049,-6.63691 13.99236,-29.08194 8.14913,-28.77857 -15.73321,0.18323 -30.86105,0.13854 -46.56905,0.29116 z"
+           id="path3354"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="csccscc"
+           inkscape:export-xdpi="31.598276"
+           inkscape:export-ydpi="31.598276"
+           inkscape:export-filename="/home/grabli66/Workspace/godot-projects/ufofly/turret.png" />
+        <path
+           sodipodi:nodetypes="ccsc"
+           inkscape:connector-curvature="0"
+           id="path4236"
+           d="m 307.34095,337.9916 16.50415,6.52489 c 0,0 -1.1371,-6.06937 -7.83891,-8.2691 -7.00381,-2.29886 -8.66524,1.74421 -8.66524,1.74421 z"
+           style="fill:#ffffff;fill-opacity:0.12994349;fill-rule:evenodd;stroke:none;stroke-width:0.50661314px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter4310)"
+           transform="matrix(1.4276102,-0.62900087,0.46536607,1.056217,-462.25174,170.64219)"
+           inkscape:export-xdpi="31.598276"
+           inkscape:export-ydpi="31.598276"
+           inkscape:export-filename="/home/grabli66/Workspace/godot-projects/ufofly/turret.png" />
+      </g>
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="/home/grabli66/Workspace/godot-projects/ufofly/turret_1.png"
+         inkscape:export-ydpi="31.598276"
+         inkscape:export-xdpi="31.598276"
+         inkscape:connector-curvature="0"
+         id="path4454"
+         d="m 129.95369,407.63439 19.8328,0.0969 -5.25078,71.50631 -15.73872,-1.616 z"
+         style="fill:#ffffff;fill-opacity:0.08024693;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter4901)" />
+      <path
+         inkscape:export-filename="/home/grabli66/Workspace/godot-projects/ufofly/turret_1.png"
+         inkscape:export-ydpi="31.598276"
+         inkscape:export-xdpi="31.598276"
+         sodipodi:nodetypes="ccccsccc"
+         inkscape:connector-curvature="0"
+         id="path4374"
+         d="m 123.61351,349.86072 7.14514,22.2778 -1.71235,35.04107 19.63127,1.61556 c 0,0 -1.14365,-24.67499 -0.6598,-37.40444 0.36501,-9.60299 0.5536,-28.22715 0.5536,-28.22715 l -24.8677,0.82397 z"
+         style="opacity:1;fill:#ffffff;fill-opacity:0.12994349;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter4905)" />
+    </g>
+    <g
+       id="g4694"
+       transform="translate(97.142857,18.571429)"
+       inkscape:export-filename="/home/grabli66/Workspace/godot-projects/ufofly/turret_3.png"
+       inkscape:export-xdpi="31.598276"
+       inkscape:export-ydpi="31.598276">
+      <g
+         id="g4687">
+        <path
+           style="fill:#0083ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 128.80416,430.50257 37.20508,0.3052 -1.06972,9.20312 -36.36133,0.90163 z"
+           id="path3346"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:export-xdpi="31.598276"
+           inkscape:export-ydpi="31.598276"
+           inkscape:export-filename="/home/grabli66/Workspace/godot-projects/ufofly/turret.png" />
+      </g>
+      <path
+         inkscape:export-filename="/home/grabli66/Workspace/godot-projects/ufofly/turret.png"
+         transform="matrix(0.91511351,-0.4031963,0.4031963,0.91511351,-282.46673,148.69947)"
+         inkscape:export-ydpi="31.598276"
+         inkscape:export-xdpi="31.598276"
+         style="fill:#b4ffff;fill-opacity:0.14689265;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter4446)"
+         d="m 261.93476,424.95412 17.67837,6.8274 -3.6684,7.6347 -17.47789,-5.76317 z"
+         id="path4428"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <g
+       id="g4699"
+       transform="translate(95.714286,35.357143)">
+      <g
+         id="g4701">
+        <path
+           inkscape:export-filename="/home/grabli66/Workspace/godot-projects/ufofly/turret.png"
+           inkscape:export-ydpi="31.598276"
+           inkscape:export-xdpi="31.598276"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path4703"
+           d="m 128.80416,430.50257 37.20508,0.3052 -1.06972,9.20312 -36.36133,0.90163 z"
+           style="fill:#0083ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4705"
+         d="m 261.93476,424.95412 17.67837,6.8274 -3.6684,7.6347 -17.47789,-5.76317 z"
+         style="fill:#b4ffff;fill-opacity:0.14689265;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter4446)"
+         inkscape:export-xdpi="31.598276"
+         inkscape:export-ydpi="31.598276"
+         transform="matrix(0.91511351,-0.4031963,0.4031963,0.91511351,-282.46673,148.69947)"
+         inkscape:export-filename="/home/grabli66/Workspace/godot-projects/ufofly/turret.png" />
+    </g>
+    <g
+       transform="translate(95.714286,50.714286)"
+       id="g4707">
+      <g
+         id="g4709">
+        <path
+           style="fill:#0083ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 128.80416,430.50257 37.20508,0.3052 -1.06972,9.20312 -36.36133,0.90163 z"
+           id="path4711"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:export-xdpi="31.598276"
+           inkscape:export-ydpi="31.598276"
+           inkscape:export-filename="/home/grabli66/Workspace/godot-projects/ufofly/turret.png" />
+      </g>
+      <path
+         inkscape:export-filename="/home/grabli66/Workspace/godot-projects/ufofly/turret.png"
+         transform="matrix(0.91511351,-0.4031963,0.4031963,0.91511351,-282.46673,148.69947)"
+         inkscape:export-ydpi="31.598276"
+         inkscape:export-xdpi="31.598276"
+         style="fill:#b4ffff;fill-opacity:0.14689265;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter4446)"
+         d="m 261.93476,424.95412 17.67837,6.8274 -3.6684,7.6347 -17.47789,-5.76317 z"
+         id="path4713"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <g
+       id="g4196"
+       inkscape:export-filename="/home/grabli66/Workspace/godot-projects/ufofly/bullet_1.png"
+       inkscape:export-xdpi="31.598301"
+       inkscape:export-ydpi="31.598301"
+       transform="matrix(1.2354373,0,0,1.2354373,-75.15221,-113.76355)">
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path4188"
+         d="m 313.17304,486.61917 22.32084,0 -0.57233,20.52739 -11.62364,19.03477 -10.98335,-20.08746 z"
+         style="fill:#aa4400;fill-rule:evenodd;stroke:#000000;stroke-width:0.76839679px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4190"
+         d="m 311.97261,504.82572 22.86173,-0.0976 0,2.73404 -22.71795,-0.48822 z"
+         style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.66353977px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4192"
+         d="m 312.60072,506.88339 7.29719,0.26317 4.40158,16.9294 -1.00158,2.50013 z"
+         style="fill:#ff8d41;fill-opacity:0.31012657;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4194"
+         d="m 313.17304,486.48758 6.72488,0 -0.28617,18.29043 -7.44028,-0.52634 z"
+         style="fill:#c45a14;fill-opacity:0.47468357;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <path
+       inkscape:export-filename="/home/grabli66/Workspace/godot-projects/ufofly/turret_2.png"
+       inkscape:export-ydpi="31.598276"
+       inkscape:export-xdpi="31.598276"
+       sodipodi:nodetypes="ccccccsc"
+       inkscape:connector-curvature="0"
+       id="path4193"
+       d="m 492.10662,343.22661 c -6.93293,8.45869 -2.39545,40.30124 -2.39545,40.30124 l 19.41004,25.11017 32.53655,2.58432 28.14583,-25.01203 4.64143,-20.9511 c 0,0 6.18257,-17.40208 -3.88105,-21.47621 -7.01516,-2.83999 -67.79237,-4.42797 -78.45735,-0.55639 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-filename="/home/grabli66/Workspace/godot-projects/ufofly/turret_2.png"
+       inkscape:export-ydpi="31.598276"
+       inkscape:export-xdpi="31.598276"
+       sodipodi:nodetypes="cscc"
+       inkscape:connector-curvature="0"
+       id="path4195"
+       d="m 491.91314,343.19177 c 0,0 -22.23782,0.5616 -22.21959,9.71084 0.0169,8.45363 20.96779,30.92775 20.96779,30.92775 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-filename="/home/grabli66/Workspace/godot-projects/ufofly/turret_2.png"
+       inkscape:export-ydpi="31.598276"
+       inkscape:export-xdpi="31.598276"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 571.79253,344.0078 c 0,0 22.15513,1.9965 21.54611,11.12545 -0.56273,8.43491 -22.92126,29.50915 -22.92126,29.50915 z"
+       id="path4197"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscc" />
+    <path
+       inkscape:export-filename="/home/grabli66/Workspace/godot-projects/ufofly/turret_2.png"
+       transform="matrix(0.94744939,-0.3199057,0.3199057,0.94744939,120.29415,112.23026)"
+       inkscape:export-ydpi="31.598276"
+       inkscape:export-xdpi="31.598276"
+       sodipodi:nodetypes="sscsssss"
+       inkscape:connector-curvature="0"
+       id="path4199"
+       d="m 285.71429,344.50507 c -10.52095,-2.78347 -17.8047,20.39113 -15.7143,31.07142 1.45296,7.42347 4.14936,19.2899 10,30.71429 0,0 19.28367,10.92229 21.07143,9.64286 15.49947,-11.09235 18.70334,-8.90607 26.42858,-14.28571 6.55715,-4.56619 15.38434,-12.43528 16.42856,-20.35715 0.83636,-6.34496 2.3522,-15.07747 -3.57143,-17.49999 -14.77254,-6.04139 -38.90749,-15.12272 -54.64284,-19.28572 z"
+       style="fill:#333333;fill-opacity:0.59322037;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter4208)" />
+    <path
+       inkscape:export-filename="/home/grabli66/Workspace/godot-projects/ufofly/turret_2.png"
+       inkscape:export-ydpi="31.598276"
+       inkscape:export-xdpi="31.598276"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient4229);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 581.81917,354.30102 c -1.77708,0.22282 -4.03593,1.85245 -3.95079,3.64142 0.0855,1.79635 2.50569,3.42886 4.29642,3.26318 2.02058,-0.18695 4.43221,-2.50883 4.09002,-4.50898 -0.28338,-1.65634 -2.7683,-2.60468 -4.43565,-2.39562 z"
+       id="path4201"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss" />
+    <path
+       inkscape:export-filename="/home/grabli66/Workspace/godot-projects/ufofly/turret_2.png"
+       inkscape:export-ydpi="31.598276"
+       inkscape:export-xdpi="31.598276"
+       sodipodi:nodetypes="sssss"
+       inkscape:connector-curvature="0"
+       id="path4203"
+       d="m 481.30029,353.56158 c -1.77708,0.22283 -4.03593,1.85246 -3.95079,3.64142 0.0855,1.79635 2.50569,3.42887 4.29642,3.26318 2.02058,-0.18694 4.43221,-2.50883 4.09002,-4.50898 -0.28338,-1.65633 -2.7683,-2.60468 -4.43565,-2.39562 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient4231);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-filename="/home/grabli66/Workspace/godot-projects/ufofly/turret_2.png"
+       transform="matrix(0.94744939,-0.3199057,0.3199057,0.94744939,120.29415,112.23026)"
+       inkscape:export-ydpi="31.598276"
+       inkscape:export-xdpi="31.598276"
+       sodipodi:nodetypes="cccccccssssc"
+       inkscape:connector-curvature="0"
+       id="path4205"
+       d="m 263.01847,373.9185 -0.12627,-3.15673 -6.1909,-24.79578 0.70268,-4.71791 3.58784,-2.86086 6.20885,0.0523 7.68709,-2.02293 c 0,0 -6.76073,-1.92793 -10.22779,-1.89404 -3.13659,0.0307 -6.66257,0.0745 -9.21764,1.89404 -1.27593,0.90863 -2.08617,2.5058 -2.39912,4.04061 -0.56846,2.78797 0.6724,5.65278 1.13642,8.46002 1.4412,8.71909 8.83884,25.00128 8.83884,25.00128 z"
+       style="fill:#ffffff;fill-opacity:0.37853106;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter4368)" />
+    <path
+       inkscape:export-filename="/home/grabli66/Workspace/godot-projects/ufofly/turret_2.png"
+       inkscape:export-ydpi="31.598276"
+       inkscape:export-xdpi="31.598276"
+       transform="matrix(-0.9034364,-0.42872216,-0.42872216,0.9034364,1073.4175,170.8797)"
+       style="fill:#ffffff;fill-opacity:0.37853106;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter4368)"
+       d="m 362.66133,407.48993 -0.12627,-3.15673 -6.1909,-24.79578 0.70268,-4.71791 3.58784,-2.86086 6.20885,0.0523 7.68709,-2.02293 c 0,0 -6.76073,-1.92793 -10.22779,-1.89404 -3.13659,0.0307 -6.66257,0.0745 -9.21764,1.89404 -1.27593,0.90863 -2.08617,2.5058 -2.39912,4.04061 -0.56846,2.78797 0.6724,5.65278 1.13642,8.46002 1.4412,8.71909 8.83884,25.00128 8.83884,25.00128 z"
+       id="path4207"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccssssc" />
+    <g
+       id="g4452"
+       inkscape:export-filename="/home/grabli66/Workspace/godot-projects/ufofly/laser_turret.png"
+       inkscape:export-xdpi="31.598276"
+       inkscape:export-ydpi="31.598276">
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path4233"
+         d="m 495.96636,335.82987 67.64405,0.26737 4.01051,52.40408 -23.52836,29.14308 -33.68834,0 -17.91363,-31.5494 z"
+         style="fill:#bd5e00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.05872226px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#240f00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.05872226px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 545.63317,416.9737 -7.35353,-19.29141 -6.99726,2.07248 9.05641,17.96974 z"
+         id="path4273"
+         inkscape:connector-curvature="0" />
+      <circle
+         r="25.800989"
+         cy="373.66241"
+         cx="530.32312"
+         id="path4235"
+         style="opacity:1;fill:#0080c2;fill-opacity:1;stroke:#000000;stroke-width:2.11744452;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.77215187" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4237"
+         d="m 509.97515,417.66646 2.7851,79.09673 28.78206,0 3.24655,-79.09673 z"
+         style="fill:#bd5e00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.10284185px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4261"
+         d="m 500.66023,335.18881 4.15926,-4.53739 54.07046,0.75623 2.64681,4.53738 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.05872226px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4263"
+         d="m 511.87474,330.08145 -4.67893,6.41684 12.4326,-0.13369 3.47578,-6.41683 z"
+         style="fill:#333333;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#333333;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 550.50937,330.34882 4.67894,6.41684 -12.43261,-0.13369 -3.47577,-6.41683 z"
+         id="path4265"
+         inkscape:connector-curvature="0" />
+      <circle
+         r="3.7431486"
+         cy="344.92035"
+         cx="504.78949"
+         id="path4267"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.77215187" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4271"
+         d="m 509.73499,417.05072 7.37325,-19.28387 6.99513,2.07963 -9.07477,17.96047 z"
+         style="fill:#240f00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.05872226px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <circle
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.77215187"
+         id="circle4275"
+         cx="555.05457"
+         cy="345.45508"
+         r="3.7431486" />
+    </g>
+    <g
+       id="g4441"
+       inkscape:export-filename="/home/grabli66/Workspace/godot-projects/ufofly/laser_turret_det.png"
+       inkscape:export-xdpi="31.598276"
+       inkscape:export-ydpi="31.598276"
+       transform="translate(-0.35713857,0)">
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4247"
+         d="m 515.79589,417.73093 3.77752,79.09171 14.3546,0 4.91079,-79.28871 z"
+         style="fill:#0080c2;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.08018839px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4249"
+         d="m 515.97389,422.34433 22.68691,0 -0.56718,5.29361 -21.74161,0.18907 z"
+         style="fill:#82c1e2;fill-opacity:0.68987337;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#82c1e2;fill-opacity:0.68987337;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 516.10758,434.2422 22.6869,0 -0.56717,5.29361 -21.74162,0.18907 z"
+         id="path4251"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4253"
+         d="m 515.70652,450.15058 22.68691,0 -0.56718,5.29361 -21.74161,0.18907 z"
+         style="fill:#82c1e2;fill-opacity:0.68987337;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#82c1e2;fill-opacity:0.68987337;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 515.43916,463.11792 22.6869,0 -0.56718,5.29361 -21.74161,0.18906 z"
+         id="path4255"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4257"
+         d="m 515.70652,475.6842 22.68691,0 -0.56718,5.29361 -21.74161,0.18907 z"
+         style="fill:#82c1e2;fill-opacity:0.68987337;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#82c1e2;fill-opacity:0.68987337;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 515.70652,487.71575 22.68691,0 -0.56718,5.29361 -21.74161,0.18907 z"
+         id="path4259"
+         inkscape:connector-curvature="0" />
+      <path
+         transform="matrix(1.0587223,0,0,1.0587223,-31.126236,-19.375294)"
+         inkscape:connector-curvature="0"
+         id="path4277"
+         d="m 495.86222,369.89811 6.07143,3.21428 -2.14286,10 12.85714,24.28572 -1.78571,3.21428 -16.07143,-27.5 z"
+         style="fill:#89c3e3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter4285)" />
+      <path
+         transform="matrix(1.0587223,0,0,1.0587223,-31.126236,-19.375294)"
+         style="fill:#89c3e3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter4293)"
+         d="m 565.12439,372.82545 -6.43263,2.41144 0.8464,10.19193 -15.85737,22.44206 1.35998,3.41626 19.45634,-25.21889 z"
+         id="path4279"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g4395"
+       inkscape:export-filename="/home/grabli66/Workspace/godot-projects/ufofly/laser_turret_reactor.png"
+       inkscape:export-xdpi="31.598276"
+       inkscape:export-ydpi="31.598276"
+       transform="translate(0.35713857,-0.71428529)">
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:0.34177216;stroke:none;stroke-width:1.20366156;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.77215187"
+         id="circle4239"
+         cx="529.6698"
+         cy="364.44217"
+         r="15.527828" />
+      <circle
+         r="15.527828"
+         cy="382.96982"
+         cx="529.6698"
+         id="circle4241"
+         style="opacity:1;fill:#ffffff;fill-opacity:0.34177216;stroke:none;stroke-width:1.20366156;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.77215187" />
+      <circle
+         transform="matrix(0,-1,1,0,0,0)"
+         r="15.527828"
+         cy="521.16223"
+         cx="-373.32791"
+         id="circle4243"
+         style="opacity:1;fill:#ffffff;fill-opacity:0.34177216;stroke:none;stroke-width:1.20366156;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.77215187" />
+      <circle
+         transform="matrix(0,-1,1,0,0,0)"
+         style="opacity:1;fill:#ffffff;fill-opacity:0.34177216;stroke:none;stroke-width:1.20366156;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.77215187"
+         id="circle4245"
+         cx="-373.32791"
+         cy="539.68988"
+         r="15.527828" />
+    </g>
+    <path
+       style="fill:#5ec4ff;fill-opacity:0.98734179;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 515.65301,503.05546 2.04722,387.41071 18.75618,-0.006 3.12517,-387.4043 z"
+       id="path4322"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/grabli66/Workspace/godot-projects/ufofly/laser_beam.png"
+       inkscape:export-xdpi="31.598276"
+       inkscape:export-ydpi="31.598276" />
+  </g>
+</svg>

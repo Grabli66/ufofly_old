@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="ui.svg"
+   inkscape:export-filename="/home/grabli66/Workspace/godot-projects/ufofly/pause.png"
+   inkscape:export-xdpi="31.598301"
+   inkscape:export-ydpi="31.598301">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="240.55514"
+     inkscape:cy="744.12238"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#c45a14;fill-opacity:1;stroke:none;stroke-opacity:1"
+       id="rect4136"
+       width="11.428572"
+       height="57.142857"
+       x="80"
+       y="50.219349" />
+    <rect
+       y="50.219345"
+       x="105"
+       height="57.142857"
+       width="11.428572"
+       id="rect4138"
+       style="opacity:1;fill:#c45a14;fill-opacity:1;stroke:none;stroke-opacity:1" />
+    <rect
+       y="51.48204"
+       x="81.641495"
+       height="57.142857"
+       width="11.428572"
+       id="rect4140"
+       style="opacity:1;fill:#a74d11;fill-opacity:1;stroke:none;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#a74d11;fill-opacity:1;stroke:none;stroke-opacity:1"
+       id="rect4142"
+       width="11.428572"
+       height="57.142857"
+       x="106.76904"
+       y="51.987118" />
+    <g
+       id="g4155"
+       inkscape:export-filename="/home/grabli66/Workspace/godot-projects/ufofly/shield_icon.png"
+       inkscape:export-xdpi="26.830086"
+       inkscape:export-ydpi="26.830086">
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path4145"
+         d="m 159.11743,47.978601 21.74792,6.71627 20.33702,-7.264066 -6.39645,58.115825 -13.82043,7.79813 -16.73215,-9.19562 z"
+         style="fill:#5786ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.89550269px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4147"
+         d="m 181.72089,54.375048 0,58.847322 -17.91006,-9.27486 -3.83787,-55.968909 z"
+         style="fill:#8eaeff;fill-opacity:0.55696202;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4149"
+         d="m 160.47901,57.435916 21.09591,7.249638 -0.25254,6.81853 -19.69797,-6.313453 z"
+         style="fill:#ede483;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         style="fill:#ede483;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 161.99424,72.88407 19.83322,6.966462 -0.25254,6.81853 -18.97099,-6.565991 z"
+         id="path4151"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4153"
+         d="m 163.51845,90.191906 18.30901,7.071067 -0.25254,6.818527 -17.42513,-6.565988 z"
+         style="fill:#ede483;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <g
+       id="g6100"
+       inkscape:export-filename="/home/grabli66/Workspace/godot-projects/ufofly/shield_item.png"
+       inkscape:export-xdpi="31.598301"
+       inkscape:export-ydpi="31.598301">
+      <circle
+         r="52.586761"
+         cy="283.13107"
+         cx="156.57364"
+         id="path5409"
+         style="opacity:1;fill:#cccccc;fill-opacity:0.50632911;stroke:#000000;stroke-width:2;stroke-opacity:0.77215189;stroke-miterlimit:4;stroke-dasharray:none" />
+      <g
+         transform="translate(-23.738585,204.05081)"
+         id="g5397"
+         inkscape:export-filename="/home/grabli66/Workspace/godot-projects/ufofly/shield_icon.png"
+         inkscape:export-xdpi="26.830086"
+         inkscape:export-ydpi="26.830086">
+        <path
+           sodipodi:nodetypes="ccccccc"
+           inkscape:connector-curvature="0"
+           id="path5399"
+           d="m 159.11743,47.978601 21.74792,6.71627 20.33702,-7.264066 -6.39645,58.115825 -13.82043,7.79813 -16.73215,-9.19562 z"
+           style="fill:#5786ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.89550269px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path5401"
+           d="m 181.72089,54.375048 0,58.847322 -17.91006,-9.27486 -3.83787,-55.968909 z"
+           style="fill:#8eaeff;fill-opacity:0.55696202;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path5403"
+           d="m 160.47901,57.435916 21.09591,7.249638 -0.25254,6.81853 -19.69797,-6.313453 z"
+           style="fill:#ede483;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           style="fill:#ede483;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 161.99424,72.88407 19.83322,6.966462 -0.25254,6.81853 -18.97099,-6.565991 z"
+           id="path5405"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path5407"
+           d="m 163.51845,90.191906 18.30901,7.071067 -0.25254,6.818527 -17.42513,-6.565988 z"
+           style="fill:#ede483;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+    </g>
+    <g
+       id="g6096"
+       inkscape:export-filename="/home/grabli66/Workspace/godot-projects/ufofly/star_item.png"
+       inkscape:export-xdpi="31.598301"
+       inkscape:export-ydpi="31.598301">
+      <circle
+         inkscape:export-ydpi="31.598301"
+         inkscape:export-xdpi="31.598301"
+         inkscape:export-filename="/home/grabli66/Workspace/godot-projects/ufofly/star_item.png"
+         style="opacity:1;fill:#cccccc;fill-opacity:0.50632911;stroke:#000000;stroke-width:2;stroke-opacity:0.70886075;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle6094"
+         cx="306.5813"
+         cy="284.14124"
+         r="52.586761" />
+      <path
+         inkscape:export-ydpi="31.598301"
+         inkscape:export-xdpi="31.598301"
+         inkscape:export-filename="/home/grabli66/Workspace/godot-projects/ufofly/star_item.png"
+         inkscape:transform-center-y="-3.653082"
+         inkscape:transform-center-x="-0.16180322"
+         d="m 329.90283,316.09056 -23.2714,-12.62731 -23.59499,12.01181 4.81803,-26.03447 -18.71517,-18.72831 26.24911,-3.46288 12.02838,-23.58655 11.40482,23.8943 26.14911,4.15102 -19.20054,18.23037 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="1.5839286"
+         sodipodi:arg1="0.95561009"
+         sodipodi:r2="19.935186"
+         sodipodi:r1="39.870373"
+         sodipodi:cy="283.5298"
+         sodipodi:cx="306.89321"
+         sodipodi:sides="5"
+         id="path6092"
+         style="opacity:1;fill:#f0ff06;fill-opacity:1;stroke:#000000;stroke-width:0.85956067;stroke-opacity:0.46835447"
+         sodipodi:type="star" />
+    </g>
+  </g>
+</svg>
